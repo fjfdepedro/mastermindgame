@@ -21,7 +21,7 @@ abstract class Combination {
     public Color[] createCombination(String textWithProposedColors){
         Color[] color = new Color[4];
         for(int x =0; x< textWithProposedColors.length(); x++){
-            color[x] = new Color(textWithProposedColors.charAt(x));
+            color[x] = Color.getColor(textWithProposedColors.charAt(x));
         }
         return color;
     }

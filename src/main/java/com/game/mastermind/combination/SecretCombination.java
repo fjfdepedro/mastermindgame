@@ -21,7 +21,7 @@ public class SecretCombination extends Combination {
             }
         }
 
-        return proposedCombination.setResult(new Result(deads, damaged));;
+        return proposedCombination.setResult(new Result(deads, damaged));
     }
     public void write(){
         System.out.println("****");

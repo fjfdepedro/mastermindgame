@@ -13,6 +13,15 @@ enum Color {
       return color;
    }
 
+   public static Color getColor(char color){
+      for (Color c : Color.values()) {
+         if (c.color == color) {
+            return c;
+         }
+      }
+      return null;
+   }
+
    public static boolean containsColor(char test) {
 
       for (Color c : Color.values()) {

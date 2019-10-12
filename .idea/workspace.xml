@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619a8365-86d5-485e-ae8f-95b59e52e8e4" name="Default Changelist" comment="" />
+    <list default="true" id="619a8365-86d5-485e-ae8f-95b59e52e8e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/Combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/ProposedCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/ProposedCombination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/SecretCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/SecretCombination.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Rq6NgcSAMqSfyaudaCbCOOcxqG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.game.mastermind" />
@@ -34,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in mastermindgame">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.game.mastermind.App" />
       <module name="mastermindgame" />
@@ -58,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in mastermindgame" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.All in mastermindgame" />
       </list>
     </recent_temporary>
   </component>
@@ -75,5 +89,16 @@
       <updated>1570382240181</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

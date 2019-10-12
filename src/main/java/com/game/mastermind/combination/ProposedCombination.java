@@ -47,7 +47,7 @@ public class ProposedCombination extends Combination{
     }
 
     public Result setResult(Result result){
-        this.result = result;
+       return result;
     }
     public boolean isWinner(){
         return result.isWinner();
