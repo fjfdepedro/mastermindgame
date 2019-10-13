@@ -3,9 +3,11 @@ package com.game.mastermind;
 import com.game.mastermind.player.ProposedPlayer;
 import com.game.mastermind.player.SecretPlayer;
 
+import java.io.IOException;
+
 public class Mastermind {
 
-    public static void play() {
+    public static void play() throws IOException {
         System.out.println("----- MASTERMIND -----");
         ProposedPlayer proposedPlayer = new ProposedPlayer();
         SecretPlayer secretPlayer = new SecretPlayer(proposedPlayer);
@@ -13,9 +15,8 @@ public class Mastermind {
         do {
             secretPlayer.write();
             proposedPlayer.propose();
-            proposedPlayer.writeAttempts();
-            secretPlayer.write();
             secretPlayer.answer();
+            proposedPlayer.writeAttempts();
             proposedPlayer.writeProposedCombinations();
         }
         while(!proposedPlayer.isLooser() && !proposedPlayer.isWinner());

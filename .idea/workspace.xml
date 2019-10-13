@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="619a8365-86d5-485e-ae8f-95b59e52e8e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/Combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/Mastermind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/Mastermind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/ProposedCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/ProposedCombination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/SecretCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/SecretCombination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/player/ProposedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/player/ProposedPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/player/SecretPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/player/SecretPlayer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">

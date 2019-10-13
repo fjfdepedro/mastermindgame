@@ -2,6 +2,7 @@ package com.game.mastermind.player;
 
 import com.game.mastermind.combination.ProposedCombination;
 
+import java.io.IOException;
 import java.util.ArrayList;
 
 public class ProposedPlayer {
@@ -10,7 +11,7 @@ public class ProposedPlayer {
 
     private ArrayList<ProposedCombination> attempts = new ArrayList<ProposedCombination>();
 
-    public ProposedCombination propose(){
+    public ProposedCombination propose() throws IOException {
         ProposedCombination proposedCombination = new ProposedCombination();
         proposedCombination.read();
         attempts.add(proposedCombination);

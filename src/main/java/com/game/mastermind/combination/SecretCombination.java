@@ -9,7 +9,7 @@ public class SecretCombination extends Combination {
     public SecretCombination() {
         this.combinationSecret = generateRandomColorsCombination();
     }
-    public Result calculateResult(ProposedCombination proposedCombination) {
+    public void calculateResult(ProposedCombination proposedCombination) {
         int damaged = 0;
         int deads = 0;
         for(int x =0; x < 4; x++){
@@ -21,7 +21,7 @@ public class SecretCombination extends Combination {
             }
         }
 
-        return proposedCombination.setResult(new Result(deads, damaged));
+        proposedCombination.setResult(new Result(deads, damaged));
     }
     public void write(){
         System.out.println("****");

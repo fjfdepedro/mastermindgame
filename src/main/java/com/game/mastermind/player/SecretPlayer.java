@@ -14,8 +14,8 @@ public class SecretPlayer {
     public void prepare(){
         this.secretCombination = new SecretCombination();
     }
-    public Result answer(){
-        return secretCombination.calculateResult(proposedPlayer.getLastProposedPlayer());
+    public void answer(){
+        secretCombination.calculateResult(proposedPlayer.getLastProposedPlayer());
     }
     public void write(){
         secretCombination.write();
