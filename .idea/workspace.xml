@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="619a8365-86d5-485e-ae8f-95b59e52e8e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/Mastermind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/Mastermind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/ProposedCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/ProposedCombination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/SecretCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/combination/SecretCombination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/player/ProposedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/player/ProposedPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/mastermind/player/SecretPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/mastermind/player/SecretPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/Mastermind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/combination/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/combination/Combination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/combination/ProposedCombination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/combination/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/combination/SecretCombination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/combination/ValidatorCombination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/player/ProposedPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/mastermind/player/SecretPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/game/mastermind/AppTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
